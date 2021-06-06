@@ -23,7 +23,7 @@ _My name is Ahmad , i finished college earlier this year , Im optimistic and loo
 |   7      |         |           |
 |   8      |         |           |
 |   9      |         |           |
-|   10     |         |           |
+|   10     |  read10       |   [read10](https://github.com/Ahmad-loop98/reading-notes2/blob/main/read10.md)       |
 |   11     |    read11     |    [read11](https://github.com/Ahmad-loop98/reading-notes2/blob/main/read11.md)         |
 |   12     |         |           |
 |   13     |         |           |
