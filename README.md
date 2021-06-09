@@ -1,4 +1,4 @@
-# reading-notes2read01.md
+# reading-notes2
 
 ### code 201 Reading notes
 
@@ -7,11 +7,17 @@
 _My name is Ahmad , i finished college earlier this year , Im optimistic and looking forward to develop in many things_
 
 -software development
+
 -web development
+
 -weather forecasting
+
 -Travelling around the world
+
 -having new contacts 
+
 -completing my studies
+
 -------------------------------------------------------------------------------------------------------------------------
 
 *my github account under this link*
